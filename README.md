@@ -10,7 +10,7 @@ Este simulador permite aos investidores:
 - 🎯 Simular cenários futuros de investimento;
 - 📉 Acompanhar valorização/desvalorização dos ativos.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 - Controle de Carteira
 - Registro detalhado de cada FII investido
 - Cálculo automático de valores investidos
