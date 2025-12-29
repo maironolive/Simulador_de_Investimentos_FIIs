@@ -12,9 +12,9 @@ Este simulador permite aos investidores:
 
 ## 🎯Público-Alvo
 Ideal para:
-•	Investidores iniciantes que desejam compreender o poder dos juros compostos;
-•	Pessoas em busca de maior organização e controle financeiro;
-•	Assesores e Consultores de investimento que desejam apresentar simulações rápidas para seus clientes.
+-	Investidores iniciantes que desejam compreender o poder dos juros compostos;
+-	Pessoas em busca de maior organização e controle financeiro;
+-	Assesores e Consultores de investimento que desejam apresentar simulações rápidas para seus clientes.
 
 ## 🚀 Funcionalidades
 ### Controle de Carteira
