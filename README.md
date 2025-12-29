@@ -25,8 +25,7 @@ Ideal para:
 - Cálculo de dividend yield
 - Projeção de rendimentos mensais
 - Rendimento anualizado (Yield on Cost)
-### Dashboard Interativo
-- Gráficos de composição da carteira
+- Gráfico de composição da carteira
 - Visualização de desempenho por setor
 - Análise de concentração de investimentos
 
@@ -65,9 +64,9 @@ Projeto desenvolvido como parte do bootcamp "IA e Dados" oferecido pela DIO em p
 ## 👨‍💻 Autor
 ## Mairon Oliveira
 
-[GitHub:] (https://github.com/maironolive/)
-[LinkedIn:] (https://www.linkedin.com/in/maironhenriquedeoliveira/)
-[Email:] (maironhenrique@hotmail.com)
+- GitHub:[Mairon Oliveira](https://github.com/maironolive/)
+- LinkedIn:[Mairon Oliveira](https://www.linkedin.com/in/maironhenriquedeoliveira/)
+- Email:[](maironhenrique@hotmail.com)
 
 ## ⭐ Agradecimentos
 - **DIO (Digital Innovation One)** pela plataforma de aprendizado
