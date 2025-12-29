@@ -18,16 +18,16 @@ Ideal para:
 
 ## 🚀 Funcionalidades
 ### Controle de Carteira
-- Valor Investido
-- Registro detalhado de cada FII investido
-- Cálculo automático de valores investidos
+- Valor Investido;
+- Registro detalhado de cada FII investido;
+- Cálculo automático de valores investidos.
 ### Análise de Rendimentos
-- Cálculo de dividend yield
-- Projeção de rendimentos mensais
-- Rendimento anualizado (Yield on Cost)
-- Gráfico de composição da carteira
-- Visualização de desempenho por setor
-- Análise de concentração de investimentos
+- Cálculo de dividend yield;
+- Projeção de rendimentos mensais;
+- Rendimento anualizado (Yield on Cost);
+- Gráfico de composição da carteira;
+- Visualização de desempenho por setor;
+- Análise de concentração de investimentos.
 
 ## 💻 Como Utilizar
 1.	Abra o arquivo SIMULADOR DE INVESTIMENTO.xlsx no Excel.
@@ -46,12 +46,12 @@ Ideal para:
 
 ## 🎓 Conceitos Aplicados
 Este projeto demonstra conhecimentos em:
-- Modelagem financeira em planilhas
-- Fórmulas avançadas do Excel (PROCV, SOMASE, SE, etc.)
-- Criação de dashboards interativos
-- Análise de investimentos em renda variável
-- Gestão de carteiras de FIIs
-- Visualização de dados financeiros
+- Modelagem financeira em planilhas;
+- Fórmulas avançadas do Excel (PROCV, VF, SOMASE, SE, etc.);
+- Criação de gráficos e dashboards;
+- Análise de investimentos em renda variável;
+- Gestão de carteiras de FIIs;
+- Visualização de dados financeiros.
   
 ## 🏆 Desafio DIO/Santander
 Projeto desenvolvido como parte do bootcamp "IA e Dados" oferecido pela DIO em parceria com o Santander. O desafio propunha a criação de uma ferramenta prática para auxiliar na gestão de investimentos utilizando recursos de análise de dados.
