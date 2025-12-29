@@ -17,16 +17,14 @@ Ideal para:
 •	Assesores e Consultores de investimento que desejam apresentar simulações rápidas para seus clientes.
 
 ## 🚀 Funcionalidades
-- Controle de Carteira
+### Controle de Carteira
 - Registro detalhado de cada FII investido
 - Cálculo automático de valores investidos
-
-## Análise de Rendimentos
+### Análise de Rendimentos
 - Cálculo de dividend yield
 - Projeção de rendimentos mensais
 - Rendimento anualizado (Yield on Cost)
-
-## Dashboard Interativo
+### Dashboard Interativo
 - Gráficos de composição da carteira
 - Visualização de desempenho por setor
 - Análise de concentração de investimentos
