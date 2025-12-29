@@ -58,16 +58,16 @@ Este projeto demonstra conhecimentos em:
 Projeto desenvolvido como parte do bootcamp "IA e Dados" oferecido pela DIO em parceria com o Santander. O desafio propunha a criação de uma ferramenta prática para auxiliar na gestão de investimentos utilizando recursos de análise de dados.
 
 ## 📚 Referências e Recursos
-[B3 - Fundos de Investimento Imobiliário](https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/)
-[CVM - Guia de Fundos Imobiliários](https://www.investidor.gov.br/menu/Menu_Investidor/fundos_investimentos/fundos_imobiliarios.html)
-[DIO - Digital Innovation One](https://www.dio.me/)
+- [B3 - Fundos de Investimento Imobiliário](https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/)
+- [CVM - Guia de Fundos Imobiliários](https://www.investidor.gov.br/menu/Menu_Investidor/fundos_investimentos/fundos_imobiliarios.html)
+- [DIO - Digital Innovation One](https://www.dio.me/)
 
 ## 👨‍💻 Autor
 ## Mairon Oliveira
 
-[GitHub:](https://github.com/maironolive/)
-[LinkedIn:](https://www.linkedin.com/in/maironhenriquedeoliveira/)
-[Email:](maironhenrique@hotmail.com)
+[GitHub:] (https://github.com/maironolive/)
+[LinkedIn:] (https://www.linkedin.com/in/maironhenriquedeoliveira/)
+[Email:] (maironhenrique@hotmail.com)
 
 ## ⭐ Agradecimentos
 - **DIO (Digital Innovation One)** pela plataforma de aprendizado
