@@ -66,7 +66,7 @@ Projeto desenvolvido como parte do bootcamp "IA e Dados" oferecido pela DIO em p
 
 - GitHub: [Mairon Oliveira](https://github.com/maironolive/)
 - LinkedIn: [Mairon Oliveira](https://www.linkedin.com/in/maironhenriquedeoliveira/)
-- Email: [Mairon Oliveira](maironhenrique@hotmail.com)
+- Email: (maironhenrique@hotmail.com)
 
 ## ⭐ Agradecimentos
 - **DIO (Digital Innovation One)** pela plataforma de aprendizado
